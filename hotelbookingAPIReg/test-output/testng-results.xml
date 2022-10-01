@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20999" started-at="2022-07-07T11:02:01 IST" finished-at="2022-07-07T11:02:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20999" started-at="2022-07-07T11:02:01 IST" finished-at="2022-07-07T11:02:22 IST">
+      <class name="hotelbooking.HotelBookingTestCases">
+        <test-method status="PASS" signature="verifyCreateBooking()[pri:1, instance:hotelbooking.HotelBookingTestCases@4b553d26]" name="verifyCreateBooking" duration-ms="7101" started-at="2022-07-07T11:02:01 IST" finished-at="2022-07-07T11:02:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateBooking -->
+        <test-method status="PASS" signature="updateCreatedBooking()[pri:2, instance:hotelbooking.HotelBookingTestCases@4b553d26]" name="updateCreatedBooking" duration-ms="6216" started-at="2022-07-07T11:02:08 IST" finished-at="2022-07-07T11:02:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateCreatedBooking -->
+        <test-method status="PASS" signature="deleteCreatedBooking()[pri:3, instance:hotelbooking.HotelBookingTestCases@4b553d26]" name="deleteCreatedBooking" duration-ms="7605" started-at="2022-07-07T11:02:14 IST" finished-at="2022-07-07T11:02:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCreatedBooking -->
+      </class> <!-- hotelbooking.HotelBookingTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
